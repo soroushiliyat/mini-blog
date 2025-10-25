@@ -5,8 +5,8 @@ export default function UserDetail() {
 
   return (
     <div>
-      <h2>جزئیات کاربر</h2>
-      <p>شناسه کاربر: {id}</p>
+      <h2>User Details</h2>
+      <p>User ID: {id}</p>
     </div>
   );
 }
